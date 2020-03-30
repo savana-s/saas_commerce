@@ -249,7 +249,7 @@ class NavBar extends PureComponent {
                   display="inline"
                   color="primary"
                 >
-                  Wa
+                  E-
                 </Typography>
                 <Typography
                   variant="h4"
@@ -257,7 +257,7 @@ class NavBar extends PureComponent {
                   display="inline"
                   color="secondary"
                 >
-                  Ver
+                  Commerce
                 </Typography>
               </Hidden>
             </Box>
