@@ -143,7 +143,7 @@ function HeadSection(props) {
                           fullWidth
                           className={classes.extraLargeButton}
                           classes={{ label: classes.extraLargeButtonLabel }}
-                          href="https://github.com/savana-s/saas-commerce"
+                          href="https://github.com/savana-s/saas_commerce"
                         >
                           Download from GitHub
                         </Button>
