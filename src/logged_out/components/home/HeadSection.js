@@ -123,8 +123,8 @@ function HeadSection(props) {
                         <Typography
                           variant={isWidthUp("lg", width) ? "h3" : "h4"}
                         >
-                          Free Template for building an SaaS app using
-                          Material-UI
+                          E-Commerce website built with React, Saas and
+                          Material-UI.
                         </Typography>
                       </Box>
                       <div>
