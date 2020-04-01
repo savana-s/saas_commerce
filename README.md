@@ -1,14 +1,4 @@
-# React SaaS Template
-Remains of a SaaS business I once tried to build. Now transformed into a template for building an SaaS/admin application using React + Material-UI.
-
-[**Check out the demo**](https://reactsaastemplate.com)
-
-![Node.js CI](https://github.com/dunky11/react-saas-template/workflows/Node.js%20CI/badge.svg)
-[![Dependabot Status](https://api.dependabot.com/badges/status?host=github&repo=dunky11/react-saas-template)](https://dependabot.com)
-[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
-
-[<img src="/.github/gifs/showcase.gif">](https://reactsaastemplate.com "Go to demo website")
-
+[**Demo**](https://sass-commerce.netlify.com/)
 
 ## Getting Started
 
@@ -31,12 +21,12 @@ Remains of a SaaS business I once tried to build. Now transformed into a templat
 1. Clone the repository
 
    ```
-   git clone https://github.com/dunky11/react-saas-template
+   git clone https://github.com/savana-s/saas_commerce
    ```
 2. Install dependencies, this can take a minute
 
    ```
-   cd react-saas-template
+   cd saas-template
    npm install
    ```
 3. Start the local server
@@ -77,17 +67,6 @@ It will create a folder named build with your compiled project inside. After tha
 * [Aos](https://github.com/michalsnik/aos) - Animations based on viewport
 * [React-Cropper](https://github.com/roadmanfong/react-cropper) - Cropper for the image uploads
 * [React-Stripe-js](https://github.com/stripe/react-stripe-js) - Stripes payment elements
-
-## Things im currently working on
-
-- [ ] Improving the encapsulation of components
-- [ ] smoothScrollTop() sometimes stops scrolling top when components with big height are still rendering
-- [ ] When a Dialog is opened there is a margin on the right side of the viewport (could be that this is not fixable without shaking the viewport on dialog open)
-- [ ] shadeColor() throws errors on certain color codes
-- [ ] Adding iDEAL, FBX and PaymentRequestButton to avaible payment methods
-
-## Contribute
-Show your support by ⭐ the project.
 
 ## License
 
